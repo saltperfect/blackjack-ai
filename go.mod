@@ -1,4 +1,4 @@
-module github.com/saltperfect/blackjack
+module github.com/saltperfect/blackjack-ai
 
 go 1.17
 
